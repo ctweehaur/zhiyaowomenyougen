@@ -61,9 +61,7 @@ const lessonData = [
     ["我们", "wǒ men", "we", "kita"],
     ["有根", "yǒu gēn", "have roots", "mempunyai akar"],
     ["。", "", "", ""],
-
-    ["\n", "", "", ""], // 👈 第2节
-
+    ["<br>", "", "", ""],
     ["只要", "zhǐ yào", "As long as", "Asalkan"],
     ["我们", "wǒ men", "we", "kita"],
     ["有根", "yǒu gēn", "have roots", "mempunyai akar"],
